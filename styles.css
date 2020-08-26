@@ -1,0 +1,23 @@
+body{
+    padding-left: 5px;
+    background-color:#b2d0ff;
+}
+h1,h2,h3,label,strong{
+    color:#7842f5;
+}
+li,p,th,td{
+    color: white;
+}
+td{
+    text-align: center;
+}
+hr{
+    border: 5px dotted blue;
+    border-right-style: none;
+    border-left-style: none;
+    border-top-style: none;
+    width: 100px;
+}
+.paddingleft{
+    padding-left: 10px;
+}
